@@ -1,7 +1,7 @@
-<img align="left" alt="logo" width="120" src="https://dozexdoze.github.io/12x12/imagens/1212black50.svg">
+<img align="left" alt="logo" width="120" src="https://dozexdoze.github.io/12_12/imagens/1212gradientpink32.svg">
 
-<h2>Exhibition website</h2>
-Iterated website (Dez,2023)
+<h2>12x12 website</h2>
+(Dez,2023)
   
 **Brand, Webdesign and Website Development** - Filipa Roque
 

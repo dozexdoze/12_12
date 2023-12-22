@@ -1,4 +1,4 @@
-<img align="left" alt="logo" width="120" src="https://dozexdoze.github.io/12_12/imagens/1212gradientpink32.svg">
+<img align="left" alt="logo" width="120" src="https://filiparoque.github.io/12x12/imagens/1212gradientpink32.svg">
 
 <h2>12x12 website</h2>
 (Dez,2023)

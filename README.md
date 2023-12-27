@@ -22,7 +22,13 @@
 - Design alterations to the contact form and make it responsive. 
 - Introduction of animation on image gallery zoom and contact form.
 - Introduction of custom cursor, reacting to CD animation, image gallery and buttons.
-- Vertical responsiveness on desktop, landscape mode for ipad/tablet, landscape mode for mobile. 
+- Vertical responsiveness on desktop, landscape mode for ipad/tablet, landscape mode for mobile.
+
+---
+
+#### Future changes 
+- Once approved it is intended to make applications more agile, and less dependent on a third party (facebook, googleform).
+- Develop section about the participating artists for each year. 
 
 ---
 

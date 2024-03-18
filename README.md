@@ -8,7 +8,7 @@
 > [!Caution]
 > **All Artwork Images - copyright from the artists** (do not use without permission).
 
----
+
 
 #### Project description
 - Student project done in the Step by tech program 2023, by [FUTURE OF WORK](https://www.linkedin.com/showcase/futureofworklisboa/) (Lisbon City Council) and Le Wagon. 

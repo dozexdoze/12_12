@@ -12,7 +12,7 @@
 
 #### Project description
 - Student project done in the Step by tech program 2023, by [FUTURE OF WORK](https://www.linkedin.com/showcase/futureofworklisboa/) (Lisbon City Council) and Le Wagon. 
-- Final selected project out of about 400 initial participants. Original submited work [[HERE](https://filiparoque.github.io/stepbytech12x12/)]
+- Final selected project out of about 400 initial participants. Original submitted work [[HERE](https://filiparoque.github.io/stepbytech12x12/)]
 - Project brief: develop responsive landing page in HTML and CSS, and later add Javascript to improve interaction. 
 
 ---
@@ -27,7 +27,7 @@
 ---
 
 #### Future changes 
-- Once approved it is intended to make applications more agile, and less dependent on a third party (facebook, googleform).
+- Once approved it is intended to make applications more agile, and less dependent on a third party (facebook, googleforms).
 - Develop section about the participating artists for each year. 
 
 ---
